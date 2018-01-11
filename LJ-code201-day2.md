@@ -1,0 +1,1 @@
+# Learning Journal Entry 1 - Class 201 - Day 2
