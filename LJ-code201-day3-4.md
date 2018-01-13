@@ -2,7 +2,6 @@
 
 So far we have been going over the basics of primitive data types within Javascript. We have started out programming with developing a interactive guessing game script that takes user input.
 
-
 ### pseudo-code:
 ***
 
@@ -22,3 +21,14 @@ do{
 } while (condition)
 ```
 Those are just some examples. You can replace the filler as long as it still fits the statement and makes sense. Sometimes you know the problem but need to just write it out in a pseudo fashion to make more sense of it and then proceed to flesh it out
+
+### loops, loops, loops
+***
+
+To build off of the pseudo-code, we started exploring three different loops:
+
+* For
+* While
+* Do While
+
+These loops are the first step that allow us to do iterative tasks without needing to repeat and create clunky code for us as well as other developers trying to read the code for debugging.
