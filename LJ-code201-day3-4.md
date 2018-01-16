@@ -92,4 +92,10 @@ Do While loops are useful for situations where you want a block of code to run b
 
 The box model is what is used when creating layouts for websites. It is how browsers render elements to the viewer. Each box has the four areas: content, padding, border and margin. These create your canvas that you can then manipulate with the css file.
 
-As I get further along, I'll expand upon this.
+
+HTML & CSS Jon Duckett:
+>CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
+>If one block-level element sits inside another block-level element then the outer box is known as the containing or parent
+>element
+
+The main takeaway from this is to think about the layout as a stack of blocks. Manipulating these blocks is how we can achieve our desired layout.
